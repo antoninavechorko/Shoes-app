@@ -29,7 +29,7 @@ every branch should contain action that discribe for what this branch is created
 
 ## Deploy
 
-we deployed our aplication on vercel [Shoes shop](https://shoes-shop-solvd.vercel.app/)
+we deployed our aplication on vercel [Shoes shop]((https://shoes-shop-solvd.vercel.app/products))
 
 ## Website structure
 
