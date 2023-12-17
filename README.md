@@ -48,7 +48,7 @@ We deployed our aplication on vercel [Shoes shop](https://shoes-shop-solvd.verce
 <img width="1440" alt="Screenshot 2023-12-17 at 21 04 48" src="https://github.com/antoninavechorko/Shoes-app/assets/91696706/859801c9-7200-4bba-9534-8ffe74fa7048">
 <img width="1440" alt="Screenshot 2023-12-17 at 21 05 03" src="https://github.com/antoninavechorko/Shoes-app/assets/91696706/665acb9a-2cb3-448f-b705-27260bd8641a">
 <img width="1439" alt="Screenshot 2023-12-17 at 21 07 10" src="https://github.com/antoninavechorko/Shoes-app/assets/91696706/3c49c636-ac71-4020-a988-37bfdb77b76b">
-<img width="1437" a<img width="1440" alt="Screenshot 2023-12-17 at 21 06 57" src="https://github.com/antoninavechorko/Shoes-app/assets/91696706/09aa53cd-e2a3-44d4-8619-4d54de047c85">
+<img width="1437" alt="Screenshot 2023-12-17 at 21 07 24" src="https://github.com/antoninavechorko/Shoes-app/assets/91696706/722a2a21-7622-44b3-9204-901c5dc6ae04">
 <img width="1440" alt="Screenshot 2023-12-17 at 21 06 57" src="https://github.com/antoninavechorko/Shoes-app/assets/91696706/f95e366f-11d5-490f-9d7f-2bac08a58ea3">
 <img width="1440" alt="Screenshot 2023-12-17 at 21 07 55" src="https://github.com/antoninavechorko/Shoes-app/assets/91696706/34df5686-dd49-4062-8307-8693abbb7d03">
 <img width="1440" alt="Screenshot 2023-12-17 at 21 08 10" src="https://github.com/antoninavechorko/Shoes-app/assets/91696706/58c96ad5-ac05-48c2-b802-d8d2da7c61fd">
