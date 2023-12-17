@@ -2,7 +2,7 @@
 
 <b>Link to project</b>: https://shoes-shop-solvd.vercel.app/products
 
-# Technical stack
+## Technical stack
 <ul>
     <li>main technology -- <b>Next.js</b></li>
     <li>requests -- <b>axios, React-query(v5)</b></li>
@@ -14,11 +14,11 @@
 
 ## Commits
 
-every branch should contain action that discribe for what this branch is created (create, fix, update...)
+Every branch should contain action that discribe for what this branch is created (create, fix, update...)
 
 ## Deploy
 
-we deployed our aplication on vercel [Shoes shop](https://shoes-shop-solvd.vercel.app/products)
+We deployed our aplication on vercel [Shoes shop](https://shoes-shop-solvd.vercel.app/products)
 
 ## Website structure
 
